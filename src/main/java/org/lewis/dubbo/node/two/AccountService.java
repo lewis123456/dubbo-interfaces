@@ -1,4 +1,4 @@
-package org.lewis.dubbo.interfaces;
+package org.lewis.dubbo.node.two;
 
 public interface AccountService {
     String accountRecharge();

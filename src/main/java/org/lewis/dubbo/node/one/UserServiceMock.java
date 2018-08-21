@@ -1,4 +1,4 @@
-package org.lewis.dubbo.interfaces;
+package org.lewis.dubbo.node.one;
 
 public class UserServiceMock implements UserService{
     @Override
